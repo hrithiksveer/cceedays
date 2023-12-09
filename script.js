@@ -1,4 +1,4 @@
-const targetDate = new Date(2024, 0, 1); // Change this to your desired date
+const targetDate = new Date(2024, 0, 29); // Change this to your desired date
 
 function updateCountdown() {
     const currentDate = new Date();
