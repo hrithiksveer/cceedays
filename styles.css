@@ -4,15 +4,6 @@ body {
     margin: 0;
 }
 
-.heading{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: Arial, sans-serif;
-    font-size: 2em;
-    font-style: italic;  
-    color: #fff;
-}
 .countdown {
     display: flex;
     justify-content: center;
